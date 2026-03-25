@@ -20,7 +20,7 @@ A minimal, educational implementation of a smart client-side data layer that han
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/sync-state-engine.git
+git clone https://github.com/Majidrc16/sync-state-engine.git
 cd sync-state-engine
 npm install
 npm run dev
